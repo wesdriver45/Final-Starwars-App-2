@@ -1,0 +1,25 @@
+{
+  "name": "starwars",
+  "version": "1.0.0",
+  "description": "helps you find characters you are looking for",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wesdriver45/Final-Starwars-App-2.git"
+  },
+  "author": "wesley blake",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wesdriver45/Final-Starwars-App-2/issues"
+  },
+  "homepage": "https://github.com/wesdriver45/Final-Starwars-App-2#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "path": "^0.12.7"
+  }
+}
